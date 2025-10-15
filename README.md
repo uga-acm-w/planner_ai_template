@@ -19,8 +19,7 @@ Create a new project by selecting so.
 Next, click on "API Keys" on the sidebar, and you will create your personalized (free tier) google api key by clicking on the upper right button. 
 When prompted, name your key and choose the project you just created as the imported cloud project. 
 
-pip install -U pip setuptools wheel
-pip install google-genai==0.3.0 pypdf==4.3.1 python-docx==1.1.2 pillow==10.4.0 pytesseract==0.3.13 toml==0.10.2
+python3 -m pip install google-genai==0.3.0 pypdf==4.3.1 python-docx==1.1.2 pillow==10.4.0 pytesseract==0.3.13 toml==0.10.2
 
 
 python -m venv .venv
