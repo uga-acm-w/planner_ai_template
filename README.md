@@ -21,3 +21,8 @@ When prompted, name your key and choose the project you just created as the impo
 
 pip install -U pip setuptools wheel
 pip install google-genai==0.3.0 pypdf==4.3.1 python-docx==1.1.2 pillow==10.4.0 pytesseract==0.3.13 toml==0.10.2
+
+
+python -m venv .venv
+source .venv/bin/activate 
+pip install -r requirements.txt
