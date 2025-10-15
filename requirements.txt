@@ -1,0 +1,6 @@
+google-genai==0.3.0       # Gemini API SDK
+pypdf==4.3.1               # For reading PDFs
+python-docx==1.1.2         # For reading DOCX files
+pillow==10.4.0             # Image support for Tkinter and OCR
+pytesseract==0.3.13        # OCR for images
+toml==0.10.2               # To read config.toml
