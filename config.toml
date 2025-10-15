@@ -1,0 +1,11 @@
+# Stores personal Google Gemini API Key, model choice and audio settings
+# Do not commit your personal key, but do use a placeholder instead. 
+# Uses the free tier of Google Gemini AI Studio
+
+
+
+gemini_api_key = "AIzaSyCGR5xQ6g6ykV4mhonuQ_3Ea0ykiQNMIyA"
+gemini_model   = "gemini-2.5-flash"
+target_lufs    = -19.0
+sample_rate    = 44100
+max_tts_chars  = 4500
